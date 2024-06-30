@@ -1,2 +1,2 @@
-<h1>List of Projects -<h1>
+## List of Projects -
   1. Digital Clock
